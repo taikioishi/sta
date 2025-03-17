@@ -1,7 +1,7 @@
 {
   "name": "A Shares",
   "symbol": "BRDY-A",
-  "uri": "https://raw.githubusercontent.com/taikioishi/sta/main/metadata.json",
+  "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -12,7 +12,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/taikioishi/sta/main/BRDY-logos%20copy.jpeg",
+        "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/BRDY-logos%20copy.jpeg",
         "type": "image/png"
       }
     ],
