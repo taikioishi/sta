@@ -1,0 +1,15 @@
+{
+  "name": "A Shares",
+  "symbol": "BRDY-A",
+  "image": "https://your-logo-url.com/logo.png",
+  "description": "The governance and equity token for BRDY Holdings.",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
+}
