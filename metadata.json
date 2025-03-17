@@ -1,7 +1,8 @@
 {
   "name": "A Shares",
   "symbol": "BRDY-A",
-  "image": "https://github.com/taikioishi/sta/blob/0c8a13cad1628319fde5dffd223a1f6c0a2c5f63/BRDY-logos%20copy.jpeg",
+  "uri": "https://raw.githubusercontent.com/taikioishi/sta/main/metadata.json",
+  "image": "https://raw.githubusercontent.com/taikioishi/sta/main/BRDY-logos%20copy.jpeg",
   "description": "The governance and equity token.",
   "seller_fee_basis_points": 0,
   "properties": {
@@ -13,3 +14,4 @@
     ]
   }
 }
+
